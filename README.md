@@ -3,7 +3,7 @@
 ### Online marketplace web application powered by ASP.NET Core
 
 ### Approach
-- Utilize a Json based Vendor and prodcut database
+- Utilize a Json based vendor and prodcut database
 - Determine data structure for vendors/products
 - Create product class that recieves json data properties
 - Create service that deserialzes json data
