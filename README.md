@@ -1,8 +1,8 @@
 # Bazaar
 
-## Online marketplace web application powered by ASP.NET Core
+### Online marketplace web application powered by ASP.NET Core
 
-## Approach
+### Approach
 - Utilize a Json based Vendor and prodcut database
 - Determine data structure for vendors/products
 - Create product class that recieves json data properties
